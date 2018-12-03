@@ -67,7 +67,7 @@
     <Compile Include="Assets\Examples\HighLevelTableExample.cs" />
     <Compile Include="Assets\Examples\LowLevelTableExample.cs" />
     <Compile Include="Assets\Examples\TableQueryAndScanExample.cs" />
-    <Compile Include="Assets\Scripts\RyanMovement.cs" />
+    <Compile Include="Assets\Scripts\Character\RyanMovement.cs" />
     <None Include="Assets\Examples\License.txt" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>/Users/traciewamsley/Documents/experiments/unity/No/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
